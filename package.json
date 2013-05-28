@@ -1,0 +1,33 @@
+{
+  "name": "semver-fs",
+  "description": "Resolve filenames using semver ranges",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dshimkoski/node-semver-fs",
+  "author": {
+    "name": "Denny Shimkoski",
+    "url": "http://github.com/dshimkoski"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dshimkoski/node-semver-fs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dshimkoski/node-semver-fs/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "semver": "1.x"
+  },
+  "keywords": [
+    "semver"
+  ]
+}
